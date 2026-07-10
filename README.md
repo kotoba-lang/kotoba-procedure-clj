@@ -1,4 +1,4 @@
-# kotoba-procedure-clj
+# kotoba-procedure
 
 A multi-step external procedure -- KYC resubmission, corporate-account
 setup, contract renewal -- as pure state transitions over an injectable
